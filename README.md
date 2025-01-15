@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rug-portfolio.vercel.app/](https://rug-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,C#,ADO.Net,ASP.Net,MVC**
-
 - 📫 How to reach me **bhavsarrugved9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
